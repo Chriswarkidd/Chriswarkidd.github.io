@@ -1,0 +1,41 @@
+.button1{
+    backface-visibility: hidden;
+    background-color: steelblue;
+    outline-style: inset;
+    outline-color: teal;
+    outline-width: 1px;
+    color: black;
+}
+
+.button2{
+    backface-visibility: hidden;
+    background-color: teal;
+    outline-style: inset;
+    outline-color: steelblue;
+    outline-width: 1px;
+    color: black;
+}
+.button3{
+    backface-visibility: hidden;
+    background-color: red;
+    outline-style: dotted;
+    outline-color: black;
+    outline-width: 1px;
+    color: black;
+}
+.button4{
+    backface-visibility: hidden;
+    background-color: black;
+    outline-style: dotted;
+    outline-color: red;
+    outline-width: 1px;
+    color: red;
+}
+.foundButton{
+    backface-visibility: hidden;
+    background-color: green;
+    outline-style: solid;
+    outline-color: red;
+    outline-width: 1px;
+    color: red;
+}
